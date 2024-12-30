@@ -22,7 +22,7 @@ Baixe o Arduino IDE de uma das seguintes opções:
 
 ## Passo 4: Baixar e Instalar os Drivers Digispark
 1. Baixe o arquivo de drivers do Digispark:
-   - [Digistump Drivers](https://github.com/digistump/DigistumpArduino/releases)
+   - [Digistump Drivers](https://github.com/fellypedarosa/digistump/raw/refs/heads/main/Digistump.Drivers.zip)
 2. Descompacte o arquivo **Digistump.Drivers.zip**.
 3. Instale os drivers no seu sistema.
 
